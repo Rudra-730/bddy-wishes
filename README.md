@@ -1,4 +1,4 @@
-# 🎂 Birthday Web Template V2 - The Grand Reveal 🎂
+c# 🎂 Birthday Web Template V2 - The Grand Reveal 🎂
 
 <img src="https://img.shields.io/github/repo-size/sapthesh/Birthday-V2?style=for-the-badge&logo=github&color=ff69b4&logoColor=white" alt="Repo Size"> <img src="https://img.shields.io/github/last-commit/sapthesh/Birthday-V2?style=for-the-badge&logo=github&color=f4d03f&logoColor=white" alt="Last Commit"> 
 <a href="https://hits.sh/github.com/sapthesh/Birthday-V2/"><img alt="Hits" src="https://hits.sh/github.com/sapthesh/Birthday-V2.svg?style=for-the-badge"/></a>
@@ -75,6 +75,4 @@ Love this and want to make it even better? Contributions are welcome!
 
 Distributed under the MIT License. See the `LICENSE` file for more information.
 
-## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=sapthesh/Birthday-V2&type=Date)](https://www.star-history.com/#sapthesh/Birthday-V2&Date)
